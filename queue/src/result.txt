@@ -1,0 +1,7 @@
+peek: 10
+poll: 10
+poll: 20
+offer: true
+size: 4
+isEmpty: false
+30 40 50 90
